@@ -1,0 +1,66 @@
+@media Screen and (max-width: 425px) {
+  .QuoteBg {
+    height: auto;
+    width: 100%;
+    padding: 28px;
+  }
+  .BigBase {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .BigLogo {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .LogoText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .TexQuote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .CardQuote {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    border: 2px solid blue;
+    border-radius: 5px;
+  }
+  .CardQuoted {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  .QuotePrice {
+    display: flex;
+    flex-direction: column;
+  }
+  .mainPrice {
+    display: flex;
+  }
+  .mainPrice > div {
+    margin-top: 18px;
+  }
+  .subPrice {
+    color: lightgray;
+  }
+}

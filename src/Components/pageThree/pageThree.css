@@ -1,0 +1,7 @@
+@media Screen and (max-width: 425px) {
+  .Number5 {
+    height: auto;
+    width: 100%;
+    padding: 28px;
+  }
+}

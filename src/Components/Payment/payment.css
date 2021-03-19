@@ -1,0 +1,54 @@
+@media Screen and (max-width: 425px) {
+  .PaymentBg {
+    height: auto;
+    width: 100%;
+    padding: 28px;
+  }
+  .CardType {
+    display: flex;
+    justify-content: space-between;
+  }
+  .CardTypeImg {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .CardPic {
+    height: 20px;
+    width: 30px;
+    background-color: green;
+  }
+  .CardNUmber {
+    display: flex;
+    flex-direction: column;
+  }
+  .NumberMark {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  .Validate {
+    display: flex;
+    justify-content: space-between;
+  }
+  .Expiry {
+    width: 40%;
+  }
+  .CCV {
+    width: 40%;
+  }
+
+  .NumberStyle {
+    display: flex;
+    justify-content: space-between;
+  }
+  .MiniText {
+    display: flex;
+    justify-content: center;
+  }
+  .TexQuote {
+    border: 2px solid blue;
+    width: auto;
+    height: 250px;
+    border-radius: 5px;
+  }
+}

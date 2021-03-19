@@ -1,0 +1,35 @@
+@media Screen and (max-width: 425px) {
+  .BusContainer {
+    height: auto;
+    width: 100%;
+    padding: 28px;
+  }
+  .TopPart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .TopNv {
+    width: 80px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .Toplg {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: green;
+  }
+  .TopContent {
+  }
+  .TopCircle {
+  }
+  .Toppper {
+  }
+  .HeadTop {
+  }
+  .TextTitle {
+  }
+  .Horizon {
+  }
+}

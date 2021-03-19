@@ -1,0 +1,19 @@
+@media Screen and (max-width: 425px) {
+  .FinalBg {
+    height: auto;
+    width: 100%;
+    padding: 28px;
+  }
+  .Done {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .Doner {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: aquamarine;
+  }
+}

@@ -1,0 +1,16 @@
+@media Screen and (max-width: 425px) {
+  .FourShow {
+    height: auto;
+    width: 100%;
+    padding: 28px;
+  }
+  .OkayPath {
+    height: 30px;
+    width: 70px;
+    background-color: aqua;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
